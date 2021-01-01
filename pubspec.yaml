@@ -1,0 +1,29 @@
+name: iot_korona_app
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^1.0.6
+  control_pad: ^1.1.1+1
+  location: ^3.2.1
+  cupertino_icons: ^1.0.0
+  firebase_core: "^0.5.3"
+  cloud_firestore: "^0.14.4"
+  firebase_auth: ^0.18.4+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

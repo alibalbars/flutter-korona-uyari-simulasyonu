@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3172548264",
+    "project_id": "corona-maps-app",
+    "storage_bucket": "corona-maps-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3172548264:android:a42b7379cb1b35f38c8c9d",
+        "android_client_info": {
+          "package_name": "com.example.iot_flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3172548264-dbu1vgivel8habijr6t54t1192cgih07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDHlpdVnd_JMxdKaqAcbILtmPoCovDHUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3172548264-dbu1vgivel8habijr6t54t1192cgih07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
